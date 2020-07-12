@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning node n react (Fullstack JS)
+- 🔭 I’m looking to work on web app in a startup
+
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
