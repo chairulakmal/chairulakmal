@@ -1,7 +1,7 @@
 ### Hello 👋 
 
-- 🌱 I’m currently learning node n react (Fullstack JS)
-- 🔭 I’m looking to work in a startup
+- 🌱 I’m currently learning the MERN stack to develop web app
+- 🔭 I’m looking to work in a startup or small to mid-sized company
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
