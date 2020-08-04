@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning the MERN stack to develop web app
 - 🔭 I’m looking to work in a startup or small to mid-sized company
+- 📫 Reach me at [chairulakmal.com](https://chairulakmal.com/)
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
