@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-- 🌱 I’m currently learning the MERN stack to develop web app
+- 🌱 I’m currently learning JS and Solidity to develop smart contracts
 - 🔭 I’m looking to work in a startup or small to mid-sized company
 - 📫 Reach me at [chairulakmal.com](https://chairulakmal.com/)
 
