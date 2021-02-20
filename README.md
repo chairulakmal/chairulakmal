@@ -1,7 +1,7 @@
 ### Hello 👋 
 
 - 🌱 Currently learning Solidity and Vyper to develop smart contracts
-- 📫 Reach me at [chairulakmal.com](https://chairulakmal.com/)
+- 📫 Email me at chairulakmal [at@at] pm.me
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
