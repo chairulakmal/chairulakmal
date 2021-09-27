@@ -1,7 +1,7 @@
 ### Hello 👋 
 
-- 🌱 Currently learning Solidity and Vyper to develop smart contracts
-- 📫 Email me at chairulakmal [at@at] pm.me
+- 🌱 Currently learning rust for fun
+- 📫 Reach me at chairulakmal [at] pm.me
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
