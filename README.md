@@ -1,7 +1,7 @@
 ### Hello 👋 
 
 - 🌱 Currently learning rust for fun
-- 📫 Reach me at chairulakmal [at] pm.me
+- 📫 Reach me at mail [at] chairulakmal.com
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
