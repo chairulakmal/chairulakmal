@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-- 🌱 Currently learning rust for fun
+- 🌱 Currently learning hardened JS for fun
 - 📫 Reach me at mail [at] chairulakmal.com
 
 <!--
