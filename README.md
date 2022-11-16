@@ -1,7 +1,8 @@
 ### Hello 👋 
 
-- 🌱 Currently learning hardened JS for fun
-- 📫 Reach me at mail [at] chairulakmal.com
+- 🌱 Currently learning [Hardened JS](https://docs.agoric.com/guides/js-programming/hardened-js.html) to build cooperation tools
+-  ⚡ I love to talk about [trust](https://github.com/chairulakmal/trust) and [cooperation](https://www.instagram.com/koperasi.pintar)
+- 📫 Feel free to reach me at mail [at] chairulakmal.com
 
 <!--
 **chairulakmal/chairulakmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
